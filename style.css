@@ -1,22 +1,38 @@
+p{
+    color: #46494c
+}
+
 #card-bg{
-    background-color: #f7ede2;
+    background-color: #dcdcdd;
 }
 
 #resume-link
 {
-    color: #f04c49;
+    color: #1985a1;
+}
+
+#resume-job-link{
+    color: #46494c;
+}
+
+dd{
+    color: #46494c;
+}
+
+.skill {
+    color: #46494c;
 }
 
 .body-background{
-    background-color: #f7ede2;
+    background-color: #dcdcdd;
 }
 
 .nav-link{
-    color: #f28482;
+    color: #1985a1;
 }
 
 #headingOne{
-    color: red;
+    color: #1985a1;
 }
 
 #sample-head{
@@ -30,6 +46,18 @@
 }
 
 #typewriter{
-    color: black;
+    color: #46494c;
     text-align: center;
+}
+
+h1{
+    color: #46494c;
+}
+
+#email {
+    color: #4c5c68;
+}
+
+#phone {
+    color: #4c5c68;
 }
