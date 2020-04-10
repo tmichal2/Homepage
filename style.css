@@ -1,0 +1,35 @@
+#card-bg{
+    background-color: #f7ede2;
+}
+
+#resume-link
+{
+    color: #f04c49;
+}
+
+.body-background{
+    background-color: #f7ede2;
+}
+
+.nav-link{
+    color: #f28482;
+}
+
+#headingOne{
+    color: red;
+}
+
+#sample-head{
+    padding-bottom: 0.1%;
+    padding-top: 2%;
+}
+
+#long-writing{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+#typewriter{
+    color: black;
+    text-align: center;
+}
